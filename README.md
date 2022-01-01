@@ -1,3 +1,6 @@
 # OOP PatikeDev
-
+##Üniversite Yönetim Sistemi- Ödev
 ![UML Diagram](https://user-images.githubusercontent.com/37750540/147853956-109a8c97-95db-4050-a73d-9825cd27116f.jpg)
+
+##Hayvanat Bahçesi Yönetimi- Ödev
+![polimorfizm](https://user-images.githubusercontent.com/37750540/147859354-272ca6dc-e4c8-4040-af83-d267bfc0cd9c.jpg)
