@@ -12,3 +12,8 @@ Online Film Sistemi- Ödev
 
 ![Online Film Sistemi](https://user-images.githubusercontent.com/37750540/147871034-74e6a075-5f4f-473d-b867-60823c42764a.png)
 
+Asansör Simülasyonu- Ödev
+
+![Asansör Simülasyonu](https://user-images.githubusercontent.com/37750540/147871075-0c4cf5a4-9680-4859-b9ed-a829ec2e209d.png)
+
+
