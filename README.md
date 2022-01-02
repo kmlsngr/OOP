@@ -4,3 +4,6 @@
 
 Hayvanat Bahçesi Yönetimi- Ödev
 ![polimorfizm](https://user-images.githubusercontent.com/37750540/147859354-272ca6dc-e4c8-4040-af83-d267bfc0cd9c.jpg)
+
+Uçuş Yönetim Sistemi- Ödev
+![Uçuş Yönetim Sistemi](https://user-images.githubusercontent.com/37750540/147870576-26634247-e061-48d6-a68f-7cf9876251fe.png)
